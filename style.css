@@ -1,0 +1,103 @@
+.box-1{
+    border: 1px solid;
+    margin-left: 5em;
+    margin-top: 4em;
+    height: 6em;
+    width: 6em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-2{
+    position: absolute;
+    top: 4em;
+    left: 26em;
+    border: 1px solid;
+    height: 4em;
+    width: 6em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-3{
+    position: absolute;
+    top: 4em;
+    left: 44em;
+    border: 1px solid;
+    height: 4em;
+    width: 7em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-4{
+    position: absolute;
+    top: 4em;
+    left: 65em;
+    border: 1px solid;
+    height: 5em;
+    width: 9em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-5{
+    position: absolute;
+    top: 17em;
+    left: 5.6em;
+    border: 1px solid;
+    height: 8em;
+    width: 9em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-6{
+    position: absolute;
+    top: 18.5em;
+    left: 25em;
+    border: 1px solid;
+    height: 8em;
+    width: 14em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-7{
+    position: absolute;
+    top: 19em;
+    left: 48em;
+    border: 1px solid;
+    height: 4em;
+    width: 6em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.box-8{
+    position: absolute;
+    top: 19em;
+    left: 67em;
+    border: 1px solid;
+    height: 4em;
+    width: 5em;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
